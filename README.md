@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elsayed Talaat Tmmam
-- Undergraduated Communication and Electronics Engineering 
+- dergraduated from Communication and Electronics Engineering 
 - I'm interested in Digital IC Design feild
 
 <!---
